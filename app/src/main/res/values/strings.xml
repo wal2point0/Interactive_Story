@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Interactive Story</string>
+    <string name="image_title">Signals from Mars</string>
+    <string name="button_title">START YOUR ADVENTURE</string>
+    <string name="text_input">Enter your name to begin</string>
+    <string name="key_name">name</string>
+</resources>
